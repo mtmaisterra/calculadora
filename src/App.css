@@ -1,0 +1,76 @@
+.gral {
+  width: 60%;
+  height: 90%;
+  background-color: darkolivegreen;
+  border: 1rem solid black;
+  border-radius: 1.5rem;
+  margin-top: 5rem;
+  margin-left: 20rem;
+  align-items: center;
+  cursor: pointer;
+}
+
+
+
+.inputDatos {
+  justify-items: center;
+}
+
+.botones {
+  align-items: center;
+  margin-top: 3rem;
+  margin-bottom: 3rem;
+  display: flex;
+  justify-content: center;
+}
+
+.limpiar {
+  width: 13rem;
+  height: 4rem;
+  margin-right: 1rem;
+  background-color: darkorange;
+  border: 4px solid orangered;
+  border-radius: 1rem;
+  font-size: 2rem;
+  text-align: center;
+}
+
+.limpiar:hover {
+  font-size: 3rem;
+  background-color: grey;
+  border: 5px solid black;
+}
+
+.tecla {
+  width: 6rem;
+  height: 4rem;
+  margin-right: 1rem;
+  background-color: darkorange;
+  border: 4px solid orangered;
+  border-radius: 1rem;
+  font-size: 2rem;
+  text-align: center;
+}
+
+.tecla:hover {
+  font-size: 3rem;
+  background-color: grey;
+  border: 5px solid black;
+}
+
+.tecla0 {
+  width: 13rem;
+  height: 4rem;
+  margin-right: 1rem;
+  background-color: darkorange;
+  border: 4px solid orangered;
+  border-radius: 1rem;
+  font-size: 2rem;
+  text-align: center;
+}
+
+.tecla0:hover {
+  font-size: 3rem;
+  background-color: grey;
+  border: 5px solid black;
+}
